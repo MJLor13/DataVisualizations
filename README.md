@@ -1,1 +1,8 @@
-# DataVisualizations
+# Data Visualizations from Spring 2025 Intro to Vis. Class
+
+Here are some samples of work from our class that I have made.
+
+1) Project 1 - Title
+2) Project 2 - Call to Action
+3) Project 3 - Telling a Story
+4) Project 4 - Animation
